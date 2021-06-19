@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asmitait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asmitait" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asmita jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmita jain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asmita-jain-342b75205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmita jain" height="30" width="40" /></a>
 <a href="https://kaggle.com/asmitajain0216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asmitajain0216" height="30" width="40" /></a>
 <a href="https://fb.com/asmita jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmita jain" height="30" width="40" /></a>
 <a href="https://instagram.com/shyly_shirley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shyly_shirley" height="30" width="40" /></a>

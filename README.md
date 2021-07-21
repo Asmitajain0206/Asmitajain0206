@@ -1,3 +1,5 @@
+<!-- ![MastHead](https://github.com/Asmitajain0206/Additonals/blob/main/COVER%20PIC%20-%20GITHUB.jpg) -->
+<img align="centre" src="https://github.com/Asmitajain0206/Additonals/blob/main/COVER%20PIC%20-%20GITHUB.jpg" height = 400 width = 800 />
 <h1 align="center">Hi 👋, I'm ASMITA JAIN</h1>
 <h3 align="center">A slow but proccessing panda!!</h3>
 

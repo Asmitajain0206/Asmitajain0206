@@ -8,7 +8,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmitajain0206" alt="asmitajain0206" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Asmita_it_is?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/Asmita_it_is?logo=twitter&style=for-the-badge" alt="Asmita_it_is" /></a> </p>
+<img width="50%" align="right" alt="Github Image" src="https://github.com/Asmitajain0206/Additonals/blob/main/The-Boss-Baby-Movie.png" bgcolor=green/>
 
+
+
+
+
+
+________
+______
 - 🔭 I’m currently working on **a hackathon project "WOMEN'S SAFETY DEVICE"**
 
 - 🌱 I’m currently learning **Internet Of Things, Machine Learning**
@@ -20,6 +28,9 @@
 - 📫 How to reach me **asmitajainshirley@gmail.com**
 
 - ⚡ Fun fact **I'm a chill head but in parallel universe!**
+
+______
+______
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -17,7 +17,9 @@
 
 ________
 ______
-- 🔭 I’m currently working on **a hackathon project "WOMEN'S SAFETY DEVICE"**
+- 📚 CSE Undergrad student
+
+- 🔭 I’m currently working on **a hackathon project "SIYA- WOMEN'S SAFETY DEVICE"**
 
 - 🌱 I’m currently learning **Internet Of Things, Machine Learning**
 

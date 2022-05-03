@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmitajain0206" alt="asmitajain0206" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Asmita_it_is?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/Asmita_it_is?logo=twitter&style=for-the-badge" alt="Asmita_it_is" /></a> </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Asmita!;Mentee+for+Microsoft+engae+2022)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Asmita!;Mentee+for+Microsoft+engae+2022;)](https://git.io/typing-svg)
 <img width="50%" align="right" alt="Github Image" src="https://github.com/Asmitajain0206/additional/blob/main/Microsoft%20Engage%20Mentee%20Badge.png" bgcolor=green/>
 ________
 ______

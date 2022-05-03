@@ -1,12 +1,12 @@
 <!-- ![MastHead](https://github.com/Asmitajain0206/Additonals/blob/main/COVER%20PIC%20-%20GITHUB.jpg) -->
 <img align="centre" src="https://github.com/Asmitajain0206/additional/blob/main/COVER%20PIC%20-%20GITHUB%20(1).jpg" height = 450 width = 800 />
 <h1 align="center">Hi 👋, I'm ASMITA JAIN</h1>
-<!-- <div align="center">
-  <div style="display: flex;">
-    <h2 align="left">A slow but proccessing panda!!</h2>
-    <img src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png" />
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
   </div>
-</div> -->
+</div>
 <!-- <p align="right"> <img src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png" alt="asmitajain0206" /> </p> -->
 <table>
   <tr>

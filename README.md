@@ -1,20 +1,8 @@
 <!-- ![MastHead](https://github.com/Asmitajain0206/Additonals/blob/main/COVER%20PIC%20-%20GITHUB.jpg) -->
 <img align="centre" src="https://github.com/Asmitajain0206/additional/blob/main/COVER%20PIC%20-%20GITHUB%20(1).jpg" height = 450 width = 800 />
 <h1 align="center">Hi 👋, I'm ASMITA JAIN</h1>
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <h2 align="left">A slow but proccessing panda!!</h2>
-    <img align="right" src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png" />
-  </div>
-</div>
-<!-- <p align="right"> <img src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png" alt="asmitajain0206" /> </p> -->
-<table style="border:none">
-  <tr>
-    <td valign="center"><h2>A slow but proccessing panda!!</h2></td>
-    <td valign="right"><img src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png"/></td>
-  </tr>
-</table>
-
+<h2 align="left">A slow but proccessing panda!!</h2>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmitajain0206&label=Profile%20views&color=0e75b6&style=flat" alt="asmitajain0206" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmitajain0206" alt="asmitajain0206" /></a> </p>

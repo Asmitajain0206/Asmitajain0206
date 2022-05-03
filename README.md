@@ -27,7 +27,7 @@ ______
 - ⚡ Fun fact **I'm a chill head but in parallel universe!**
 
 ______
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=B4F71A&background=FF544700&lines=Hey!+I+am+Asmita;Mentee+for+Microsoft+engage+2022&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=B4F71A&background=FF544700&lines=Hey!+I+am+Asmita;Mentee+for+Microsoft+engage+2022+------>&center=true)](https://git.io/typing-svg)
 ______
 
 <h3 align="left">Connect with me:</h3>

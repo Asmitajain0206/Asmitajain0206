@@ -1,8 +1,8 @@
 <!-- ![MastHead](https://github.com/Asmitajain0206/Additonals/blob/main/COVER%20PIC%20-%20GITHUB.jpg) -->
 <img align="centre" src="https://github.com/Asmitajain0206/additional/blob/main/COVER%20PIC%20-%20GITHUB%20(1).jpg" height = 450 width = 800 />
 <h1 align="center">Hi 👋, I'm ASMITA JAIN</h1>
-<h3 align="left">A slow but proccessing panda!!</h3>
-<p align="right"> <img src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png" alt="asmitajain0206" /> </p>
+
+<p align="right"><h2 align="left">A slow but proccessing panda!!</h2> <img src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png" alt="asmitajain0206" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmitajain0206&label=Profile%20views&color=0e75b6&style=flat" alt="asmitajain0206" /> </p>
 

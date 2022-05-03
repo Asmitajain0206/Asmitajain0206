@@ -1,14 +1,15 @@
 <!-- ![MastHead](https://github.com/Asmitajain0206/Additonals/blob/main/COVER%20PIC%20-%20GITHUB.jpg) -->
 <img align="centre" src="https://github.com/Asmitajain0206/additional/blob/main/COVER%20PIC%20-%20GITHUB%20(1).jpg" height = 450 width = 800 />
 <h1 align="center">Hi 👋, I'm ASMITA JAIN</h1>
-<h2 align="left">A slow but proccessing panda!!</h2>
+<h2 align="center">A slow but proccessing panda!!</h2>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmitajain0206&label=Profile%20views&color=0e75b6&style=flat" alt="asmitajain0206" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmitajain0206" alt="asmitajain0206" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Asmita_it_is?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/Asmita_it_is?logo=twitter&style=for-the-badge" alt="Asmita_it_is" /></a> </p>
-<img width="50%" align="right" alt="Github Image" src="https://github.com/Asmitajain0206/additional/blob/main/The-Boss-Baby-Movie.png" bgcolor=green/>
+<img width="50%" align="right" alt="Github Image" src="https://github.com/Asmitajain0206/additional/blob/main/Microsoft%20Engage%20Mentee%20Badge.png" bgcolor=green/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Microsoft+Engage+Mentee)](https://git.io/typing-svg)
 
 
 

@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm ASMITA JAIN</h1>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <h2>A slow but proccessing panda!!</h2>
-    <img src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png" />
+    <h2 align="left">A slow but proccessing panda!!</h2>
+    <img align="right" src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png" />
   </div>
 </div>
 <!-- <p align="right"> <img src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png" alt="asmitajain0206" /> </p> -->

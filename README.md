@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm ASMITA JAIN</h1>
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    <h2>A slow but proccessing panda!!</h2>
+    <img src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png" />
   </div>
 </div>
 <!-- <p align="right"> <img src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png" alt="asmitajain0206" /> </p> -->

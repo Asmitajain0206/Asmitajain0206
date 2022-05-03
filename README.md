@@ -8,7 +8,7 @@
   </div>
 </div>
 <!-- <p align="right"> <img src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png" alt="asmitajain0206" /> </p> -->
-<table>
+<table style="border:none">
   <tr>
     <td valign="center"><h2>A slow but proccessing panda!!</h2></td>
     <td valign="right"><img src="https://github.com/Asmitajain0206/additional/blob/main/Speeding-up-Pandas-in-Python-removebg-preview.png"/></td>
